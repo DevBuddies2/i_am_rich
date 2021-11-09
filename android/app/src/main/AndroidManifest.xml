@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.xyz.i.am.rich.iamrich">
+
    <application
         android:label="iamrich"
         android:icon="@mipmap/ic_launcher">
